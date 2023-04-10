@@ -4,11 +4,8 @@ import requests as re
 
 st.title("Credit Card Fraud Detection Web App")
 
-st.image("image.png")
 
-st.write("""
-
-**Made by Ryan Paul & Krish Gupta**
+st.write("""**Made by Ryan Paul & Krish Gupta**""")
 
 
 
